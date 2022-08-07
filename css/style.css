@@ -1,0 +1,52 @@
+h1{
+    font-family:"Helvetica", sans-serif;
+}
+
+#campo{
+    border: 6px ridge red;
+}
+
+span{
+    color:darkgreen;
+}
+
+#back{
+    background-color: rgb(194, 194, 194);
+    height: 1400px;
+    margin: 1px 10px 1px 10px;
+    margin: auto;
+    border: 5px solid;color: black;
+    border-top: 10px solid greenyellow;
+    padding: 6px;
+}
+
+h2{
+    color:red;
+    font-family:"Helvetica", sans-serif;
+}
+
+h3{
+    color:yellowgreen;
+    font-family:"Helvetica", sans-serif;
+}
+
+#brasileiro{
+    color:yellow;
+}
+
+#bra{
+    color: #113af0;
+}
+
+#outrosite{
+    color: blue;
+}
+
+#wiki{
+    color:blue;
+}
+
+h4{
+    color: darkorange;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
